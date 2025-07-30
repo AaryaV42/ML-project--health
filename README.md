@@ -1,5 +1,5 @@
-# Project_Exhibition_1
-Project exhibition and Introduction to Health informatics ML Models.
+# Project_1
+Project Introduction to Health informatics ML Models.
 
 Please ensure that the pre-requisite modules are installed.
 
